@@ -1,1 +1,8 @@
-ttps://lucky-app.hutaokaile777.workers.dev
+{
+  "rewrites": [
+    {
+      "source": "/api/draw",
+      "destination": "https://lucky-app.hutaokaile777.workers.dev/api/draw"
+    }
+  ]
+}
